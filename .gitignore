@@ -1,0 +1,10 @@
+.DS_Store
+.terraform/
+terraform.plan
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+terraform.tfstate.d/
+.vscode/
+tfplan
+*.plan
