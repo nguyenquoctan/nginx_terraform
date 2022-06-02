@@ -2,10 +2,10 @@
 
 ## Requirements
 
-Terraform
-Pre-commit tools requirements
-Docker
-Minikube
+ * Terraform
+ * Pre-commit tools requirements
+ * Docker
+ * Minikube
 
 ## Usage
 
